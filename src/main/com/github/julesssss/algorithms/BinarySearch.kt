@@ -1,4 +1,4 @@
-package main.com.github.julesssss.search
+package com.github.julesssss.algorithms
 
 /**
  * Given a list of names, find the given name
